@@ -54,7 +54,7 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [Almewty](https://github.com/Almewty/my-morphe-patches)
 - 🟢 **Active:** [Anddea-Morphed by wchill](https://github.com/wchill/anddea-rvx-morphed)
 - 🟢 **Active:** [De-ReVanced](https://github.com/RookieEnough/De-ReVanced)
-- 🟡 **Partially maintained:**  [YT-Advanced](https://github.com/YT-Advanced/ReX-patches)
+- 🟢 **Active:** [Docbt](https://github.com/Docbt/patched-up)
 
 ## 📚 Resources
 - 🟢 **Active:** [Morphe Megathread](https://xdaforums.com/t/app-guides-unofficial-morphe-megathread.4774994/)
@@ -71,6 +71,7 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 
 - 📥 **Archived:** [More Community Documentation](https://github.com/KobeW50/ReVanced-Documentation)
 - 📥 **Archived:** [Extended Documentation](https://github.com/inotia00/revanced-documentation)
+
 ## 🔨 Projects
 - 🟢 **Active:** [Awesome ReVanced](https://github.com/Jman-Github/Awesome-ReVanced)
 - 🟢 **Active:** [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles)
@@ -81,10 +82,10 @@ A curated list of awesome Morphe [patches](#-patches), [resources](#-resources) 
 - 🟢 **Active:** [AT-YT](https://github.com/Zenlua/AT-YT)
 - 🟢 **Active:** [FiorenMas Morphe, Revanced and Revanced Extended App Builds](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root)
 - 🟢 **Active:** [Peternmuller ReVanced/Morphe Builder](https://github.com/peternmuller/revanced-morphe-builder)
-- 🟢 **Active:** [ReVanced Web Patcher](https://github.com/Aunali321/revanced-web-patcher-backend)
 - 🟢 **Active:** [Enhancify](https://github.com/Graywizard888/Enhancify)
 - 🟢 **Active:** [ReVanced External Bundles](https://github.com/brosssh/revanced-external-bundles)
 - 🟢 **Active:** [Revancify-Xisr](https://github.com/Xisrr1/Revancify-Xisr)
 - 🟢 **Active:** [MorpheX](https://github.com/Svznify/MorpheX)
 - 🟢 **Active:** [jadx-morphe](https://github.com/hoo-dles/jadx-morphe)
 - 🟢 **Active:** [Morphe AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds)
+- 🟢 **Active:** [ReVanced Morphe Builder](https://github.com/nvbangg/revanced-morphe-builder)
